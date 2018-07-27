@@ -1,0 +1,7 @@
+{
+  "name": "shadow-n6g-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
